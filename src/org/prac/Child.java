@@ -8,6 +8,7 @@ public class Child {
 	}
 	public  void add() {
 		System.out.println("Addition");
+		System.out.println("subtraction");
 
 		
 	}
