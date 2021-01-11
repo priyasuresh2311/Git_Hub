@@ -8,7 +8,9 @@ public class Child {
 	}
 	public  void add() {
 		System.out.println("Addition");
-
+		System.out.println("division");
+		System.out.println("Mathematics");
+		System.out.println("repository");
 		
 	}
 public static void main(String[] args) {
